@@ -118,7 +118,7 @@ public class SallysLemonadeStand {
 
 
 
-
+		System.out.println("yay it worked");
 
 	}
 
